@@ -1,6 +1,6 @@
 #C Mesh Chat
 
-this is simple(as in it can only do simple stuff)command  line chat application built in C(cuz why not reinvent the wheel while you're at it) 
+this is a simple(as in it can only do simple stuff)command  line chat application built in C(cuz why not reinvent the wheel while you're at it) 
 
 The plan is to create a peer to peer mesh network over a local network without a central server.
 
